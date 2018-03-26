@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+You can create [new_page_this_name](https://github.com/gwenaelpellen/mon-essai-githubpage/edit/master/new_page_this_name.md by edit it.
+
 You can use the [editor on GitHub](https://github.com/gwenaelpellen/mon-essai-githubpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
