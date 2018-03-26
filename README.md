@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can create [new_page_this_name](https://github.com/gwenaelpellen/mon-essai-githubpage/edit/master/new_page_this_name.md by edit it.
+You can create [new_page_this_name](https://gwenaelpellen.github.io/mon-essai-githubpage/new_page_this_name) by create and edit it.
 
 You can use the [editor on GitHub](https://github.com/gwenaelpellen/mon-essai-githubpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
